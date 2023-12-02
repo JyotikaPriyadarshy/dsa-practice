@@ -1,2 +1,4 @@
+*.exe
 sshkey
-sshkey.pub 
+sshkey.pub
+.vscode/
